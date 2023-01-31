@@ -1,17 +1,10 @@
 import React from "react";
-import { useLocation, Routes, Route, Link } from "react-router-dom";
+import { Routes, Route, Link } from "react-router-dom";
 
 import "./App.css";
 import { DemoConfig } from "./demos";
-import Resume from "./resume";
 
 export default function App() {
-  const location = useLocation();
-
-  if (location.pathname === "/resume") {
-    return <Resume />;
-  }
-
   return (
     <div className="app">
       <nav>
