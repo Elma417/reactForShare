@@ -1,9 +1,8 @@
 ## React Demo
-### 课前准备
+### 准备
 1. 完成 Chrome、Node.js、VSCode、Git 等常用研发工具的安装（可以使用 [AppToolKit ](https://github.com/apptools-lab/AppToolkit)进行一键安装）
-2. 阅读一遍 [React 官方文档](https://reactjs.org/)，对 React 有初步的认识（React 文档正在进行一轮大的重写，也可以直接阅读 [beta 版](https://reactjs.bootcss.com/)，里面的内容相对更新一些）
-3. 了解并学习 react 官方脚手架 [create-react-app](https://github.com/facebook/create-react-app)，并在本地成功运行 **demo 项目。**
-**​**
+2. 最好能阅读 [React 官方文档](https://reactjs.org/)，对 React 有初步的认识（React 文档正在进行一轮大的重写，也可以直接阅读 [beta 版](https://reactjs.bootcss.com/)，里面的内容相对更新一些）
+3. 了解并学习 react 官方脚手架 [create-react-app](https://github.com/facebook/create-react-app)
 
    
 ## 启动项目
