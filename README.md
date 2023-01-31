@@ -1,9 +1,8 @@
-## 蚂蚁前端进高校 React 课程 Demo
+## React 课程 Demo
 ### 课前准备
 1. 完成 Chrome、Node.js、VSCode、Git 等常用研发工具的安装（可以使用 [AppToolKit ](https://github.com/apptools-lab/AppToolkit)进行一键安装）
-2. 完成零基础学前端课程以及进阶课程中的「前端研发工作流」「JS 进阶」两部分的学习（或已经具备相关能力，即了解 html，css 基础知识，掌握常用的 js 语法，能够编写简单的前端页面，并使用 Chrome 进行调试，会使用 npm 进行依赖管理）
-3. 阅读一遍 [React 官方文档](https://reactjs.org/)，对 React 有初步的认识（React 文档正在进行一轮大的重写，也可以直接阅读 [beta 版](https://reactjs.bootcss.com/)，里面的内容相对更新一些）
-4. 了解并学习 react 官方脚手架 [create-react-app](https://github.com/facebook/create-react-app)，并在本地成功运行 **demo 项目。**
+2. 阅读一遍 [React 官方文档](https://reactjs.org/)，对 React 有初步的认识（React 文档正在进行一轮大的重写，也可以直接阅读 [beta 版](https://reactjs.bootcss.com/)，里面的内容相对更新一些）
+3. 了解并学习 react 官方脚手架 [create-react-app](https://github.com/facebook/create-react-app)，并在本地成功运行 **demo 项目。**
 **​**
 
    
